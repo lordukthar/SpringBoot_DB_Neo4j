@@ -17,6 +17,9 @@ $ neo4j start
 Run AccessingDataNeo4jApplication
 
 
+###Call
+http://localhost:8080/people/Greg
+
 ##GIT
 
 Created repo locally and pushed it, followed these instructions
