@@ -1,4 +1,7 @@
-##
+##neo4j
+
+https://neo4j.com/docs/operations-manual/current/configuration/set-initial-password/
+
 
 $ brew install neo4j
 
